@@ -78,3 +78,11 @@ The Currency Hub is a searchable, paginated knowledge base covering the history 
       ## License
 
       MIT
+
+---
+
+## Documentation
+
+- [Data sources and ingestion schema](docs/data-sources.md) — upstream
+  providers, canonical asset keys, storage schema, cadence, retries and API
+  mapping.
